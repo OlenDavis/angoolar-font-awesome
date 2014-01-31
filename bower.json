@@ -1,6 +1,5 @@
 {
 	"name"       : "angoolar-fontawesome",
-	"version"    : "0.0.0",
 	"authors"    : [ "Olen Davis <spelledlikeitsounds@gmail.com>" ],
 	"description": "This adds Font Awesome to an AngOOlar project.",
 	"keywords"   : [
