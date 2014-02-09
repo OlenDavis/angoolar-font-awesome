@@ -1,19 +1,21 @@
 {
-	"name"       : "angoolar-fontawesome",
-	"authors"    : [ "Olen Davis <spelledlikeitsounds@gmail.com>" ],
-	"description": "This avails Font Awesome support to Angoolar projects.",
-	"keywords"   : [
-		"angoolar",
-		"angular",
-		"fontawesome",
-		"font",
-		"awesome"
-	],
-	"license" : "MIT",
-	"homepage": "http://angoolar.com",
-	"ignore"  : [
-		"**/.*",
-		"node_modules",
-		"bower_components"
-	]
+  "name": "angoolar-fontawesome",
+  "authors": [
+    "Olen Davis <spelledlikeitsounds@gmail.com>"
+  ],
+  "description": "This avails Font Awesome support to Angoolar projects.",
+  "keywords": [
+    "angoolar",
+    "angular",
+    "fontawesome",
+    "font",
+    "awesome"
+  ],
+  "license": "MIT",
+  "homepage": "http://angoolar.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
 }
